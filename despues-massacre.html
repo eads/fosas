@@ -1,6 +1,10 @@
 {% extends "_fosas_base.html" %}
 
 {% block content %}
-<h1>Seccion TK</h1>
+
+<div class="container">
+  {{ read_file("_docs/despues-masacre.md")|markdown }}
+</div>
+
 {% endblock %}
 
