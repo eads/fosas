@@ -1,11 +1,24 @@
 {% extends "_fosas_base.html" %}
 
 {% block content %}
-<div class="container">
-  <div class="jumbotron">
-    <h1>{{ headline }}</h1>
-    <p>{{ intro }}</p>
+<section id="intro-video">
+  <div class="video-wrapper">
+    <iframe src="//player.vimeo.com/video/{{ introduccion.vimeo_id_intro.value|int|string }}?&amp;autoplay=1&amp;loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   </div>
-</div>
+</section>
+<section id="intro">
+  <div class="container">
+    <h1 class="text-center">{{ title }}</h1>
+    <p class="text-center">{{ intro }}</p>
+    <p class="text-center">{{ credit }}</p>
+  </div>
+</section>
+<section id="intro">
+  <div class="container">
+    <h1 class="text-center">{{ title }}</h1>
+    <p class="text-center">{{ intro }}</p>
+    <p class="text-center">{{ credit }}</p>
+  </div>
+</section>
 {% endblock content %}
 
