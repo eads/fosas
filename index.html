@@ -3,7 +3,7 @@
 {% block content %}
 <section id="intro-video">
   <div class="video-wrapper">
-    <iframe src="//player.vimeo.com/video/{{ introduccion.vimeo_id_intro.value|int|string }}?&amp;autoplay=1&amp;loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="//player.vimeo.com/video/{{ introduccion.vimeo_id_intro.value|int|string }}?&amp;autoplay=1&amp;loop=1" frameborder="0"></iframe>
   </div>
 </section>
 <section id="intro">
@@ -13,12 +13,36 @@
     <p class="text-center">{{ credit }}</p>
   </div>
 </section>
-<section id="intro">
+<section id="interview">
   <div class="container">
-    <h1 class="text-center">{{ title }}</h1>
-    <p class="text-center">{{ intro }}</p>
-    <p class="text-center">{{ credit }}</p>
+    <div class="video-wrapper">
+      <iframe src="//player.vimeo.com/video/{{ introduccion.vimeo_id_interview.value|int|string }}?&amp;autoplay=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
   </div>
 </section>
+<section id="buttons">
+  <div class="container">
+    <div class="col-md-4">
+      <a href="{{ introduccion.button1_link.value }}">
+        <img src="http://placehold.it/400x250" />
+        {{ introduccion.button1_title.value }}
+      </a>
+    </div>
+    <div class="col-md-4">
+      <a href="{{ introduccion.button2_link.value }}">
+        <img src="http://placehold.it/400x250" />
+        {{ introduccion.button2_title.value }}
+      </a>
+    </div>
+    <div class="col-md-4">
+      <a href="{{ introduccion.button3_link.value }}">
+        <img src="http://placehold.it/400x250" />
+        {{ introduccion.button3_title.value }}
+      </a>
+    </div>
+  </div>
+</section>
+
+
 {% endblock content %}
 
