@@ -30,6 +30,8 @@ body {
 #intro-video .video-wrapper { padding-bottom: 37%; }
 
 /* StoryMap */
+#storymap-embed { padding-top: 50px; }
+
 .vco-slide-content {
     position: relative;
     margin: 15px 0;
