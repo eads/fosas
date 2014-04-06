@@ -1,5 +1,4 @@
 # Bílder Osbelí
-
 ## Guatemala
 
 
@@ -11,7 +10,6 @@ En ese momento se les solicita a las familia de Osbelí dar una muestra de sangr
 
 
 #Juliard 
-
 ##Brasil
 
 
