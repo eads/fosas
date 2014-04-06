@@ -40,7 +40,7 @@ El 24 de septiembre del 2010, un mes después de que encontraron su cuerpo, Yeim
 
 
 <div id="bilder"></div>
-# Angela Pineda
+# Ángela Pineda
 ## Guatemala
 
 Son 5 los familiares que Ángela perdió en la masacre de los 72 migrantes en San Fernando, Tamaulipas -sus dos hijos, su esposo, la sobrina de su esposo y su cuñado-. Todos salieron juntos de Guatemala con destino a Iowa, EEUU. Iniciaron el viaje desde el Naranjo, Petén -frontera entre México y Guatemala-. Se comunican por última vez el 7 de agosto de 2011, y comentan que pasaron 5 días entre las montañas.
