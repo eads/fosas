@@ -45,6 +45,12 @@ Yeimi era originaria de  Las Peñitas, en Pasaquina, El Salvador, fue una de las
 
 Cuando Yeimi Castro tenía cinco años, Marilú, su mamá, migró a Estados Unidos. Fue de las afortunadas que logró llegar y establecerse en Nueva York. Yeimi, junto con sus dos hermanos, creció bajo el cuidado de la abuela. Yeimi quería ser doctora. Era una buena estudiante, cuenta su abuela. La mamá de Yeimi decidió pagar a un coyote para que la llevara a Nueva York.
 
+
 “Se fue el 10 de agosto. Dejó la escuela. Ella no quería irse, pero su madre insistió. La última vez que supe de ella fue el 11 de agosto. Me habló y me dijo que estaba en Guatemala, que ya iban a entrar a México, que iba con un niño de 16 años y con una embarazada”, cuenta Victoria, la abuela que crió a Yeimi y que miró por la televisión el cuerpo de su nieta tirado en medio de otros cuerpos inertes. Lo reconoció porque llevaba la misma ropa con la que salió de El Salvador. 
 El 24 de septiembre del 2010, un mes después de que encontraron su cuerpo, Yeimi llegó en un ataúd a El Salvador. 
+
+
+<div class="video-wrapper">
+  <iframe src="//player.vimeo.com/video/91108191" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/91108191">Yeimi</a> from <a href="http://vimeo.com/ivancastaneira">Iv&aacute;n Castaneira</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
 
