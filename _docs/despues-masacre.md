@@ -8,9 +8,10 @@
 -->
 
 
-El 10 de agosto de 2013, en el marco del tercer aniversario de la masacre de San Fernando, Tamaulipas; Angela Pineda llega a la ciudad de México a denunciar las violaciones a derechos humanos que su familia sufrió. Son 5 los familiares que Ángela perdió en dicha masacre -sus dos hijos, su esposo, la sobrina de su esposo y su cuñado-.
-Todos salieron juntos de Guatemala con destino a Iowa, EEUU. comenzaron el viaje desde el Naranjo, el Petén, frontera entre México y Guatemala. Se comunican por última vez el 7 de agosto de 2011, y comentan que pasaron 5 días entre las montañas.´
-La siguiente que sabe la familia es por medio de las noticias donde se anuncia la masacre de los 72 migrantes, donde ella sin tener certeza, pero por las fechas y la falta de comunicación, le hacen saber que sus familares fallecieron.
+Son 5 los familiares que Ángela perdió en la masacre de los 72 migrantes en San Fernando, Tamaulipas -sus dos hijos, su esposo, la sobrina de su esposo y su cuñado-.
+Todos salieron juntos de Guatemala con destino a Iowa, EEUU. comenzaron el viaje desde el Naranjo, el Petén, frontera entre México y Guatemala. Se comunican por última vez el 7 de agosto de 2011, y comentan que pasaron 5 días entre las montañas.
+
+Lo siguiente que sabe la familia es por medio de las noticias donde se anuncia la masacre de los 72 migrantes, donde ella sin tener certeza, pero por las fechas y la falta de comunicación, le hacen saber que sus familares fallecieron.
 Meses más tarde de esto, Ángela recibe la llamada de la Secretaría de Relaciones Exteriores donde le confirman su supuesto, los 5 fallecieron con un tiro de gracia en la cabeza a manos de los Zetas.
 La repatriación se realizó en abril de 2012 y como en los demás casos, sólo se entrego los restos, sin darle información alguna a la familia sobre la investigación y menos aún sobre la identificación.
 
