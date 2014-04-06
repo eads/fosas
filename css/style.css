@@ -110,3 +110,7 @@ body {
     background-image: url("../img/brasil.jpg"); 
     left: 0;
 }
+
+#map {
+  margin-top: 40px;
+}
