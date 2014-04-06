@@ -1,6 +1,12 @@
 # Bílder Osbelí
 ## Guatemala
 
+<!--
+<div class="video-wrapper">
+  <... iframe code from vimeo ... >
+</div>
+-->
+
 
 Salió en un grupo de entre 5 y 6 migrantes, de la Aldea de Las Tejas, Guatemala; todos con destino Texas, EEUU. Según fuentes oficiales, cuando arribó al Municipio de San Fernando, Tamaulipas; fue obligado a descender del camión de pasajeros por el grupo delictivo de los Zetas, quiénes le propusieron trabajar en su "ejército", al negarse, fue asesinado, junto con 71 personas más.
 La familia de Osbelí es notificada en octubre de 2011, por teléfono, que su hijo se encuentra dentro de este grupo de 72 migrantes asesinados. La identificación se logra, gracias a que el Consulado de Guatemala se pone en contacto con las autoridades mexicanas y le envía una lista de 8 guatemaltecos desaparecidos en las fechas de la masacre. 
