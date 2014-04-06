@@ -52,4 +52,7 @@ Meses más tarde, la familia recibe la llamada de la Secretaría de Relaciones E
 La repatriación se realizó en abril de 2012 y como en los demás casos, sólo le entrego a la familia el cuerpo, sin darle información alguna sobre la investigación y menos aún sobre la identificación.
 
 
+<div class="video-wrapper">
+  <iframe width="560" height="315" src="//www.youtube.com/embed/-NtNjr_CXlE" frameborder="0" allowfullscreen></iframe>
+</div>
 
