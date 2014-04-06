@@ -3,13 +3,13 @@
 ##Brasil
 
 
-Salió el 3 de agosto de 2010 de Mina Gerais, Sao Paolo. En Sao Paolo tomó un avión hacia Guatemala. Ocho días después  se comunico con su familia y les dijo que estaba en Guatemala y que él calculaba que en 3 días mas estaría en EEUU. Esa fue la ultima vez que habló con su familia.
+Salió el 3 de agosto de 2010 de Mina Gerais, Sao Paolo. En Sao Paolo tomó un avión hacia Guatemala. Ocho días después  se comunicó con su familia y les dijo que él calculaba que en 3 días más estaría en EEUU. Esa fue la última vez que habló con su familia.
 
-Aproximadamente por el 20 de agosto, la familia escucha las noticias de la Masacre de 72 migrantes en San Fernando, Tamaulipas donde enfatizan que dentro de las vícitimas se encontraba un brasileño. Inmediatamente se comunican con la embajada brasileña en México y comentan que ellos tenían un migrante desaparecido que viajó hace unos días hacia los Estados Unidos y que es posible que se encuentre entre las víctimas.
+Aproximadamente por el 20 de agosto, la familia escucha las noticias de la Masacre de 72 migrantes en San Fernando, Tamaulipas donde enfatizan que dentro de las víctimas se encontraba al menos dos de origen brasileño. Inmediatamente se comunican con la Embajada brasileña en México y comentan que ellos tenían un migrante desaparecido que viajó hace unos días hacia los Estados Unidos y que es posible que se encuentre entre las víctimas.
 
-40 minutos más tarde la embajada se comunica, y sin protocolo alguno, le informan que Juliard está entre los fallecidos. Le piden que se comunique con las autoridades de Minais Gerais para que le ayuden en la repatriación. Les informan que el proceso tomará entre 2 a tres meses y tendrá un costo de 30,000 reales (casi 150,000 mil pesos).
+40 minutos más tarde la embajada se comunica con la familia, y sin protocolo alguno, le informan que Juliard está entre los fallecidos y le piden que se comunique con las autoridades de Minais Gerais para que le ayuden con la repatriación. Les informan que el proceso tomará entre 2 a 3 meses y tendrá un costo de 30,000 reales (casi 150,000 mil pesos).
 
-A pesar de que la familia acepta pagar los gastos de traslado, al solicitar una visa para poder viajar México, ésta les es negada con el argumento de que es "muy peligroso" hacerlo y que esto podría retrasar aún más la entrega.
+A pesar de que la familia acepta pagar -al menos parte- de los gastos de traslado, al solicitar una visa para poder viajar México y recoger los restos, ésta les es negada con el argumento de que es "muy peligroso" hacerlo y que esto podría retrasar aún más la entrega.
 
 El 5 de octubre de 2010, los restos llegan a Belo Horizonte, después de haber sido enviados "por equivocación" a Honduras. La única nota que acompaña el sarcófago, proveniente del gobierno mexicano, es la solicitud de que por ninguna razón la familia puede abrir la caja. La familia no acata esta instrucción, pues deseaban ver los restos de Juliard y despedirse de él. Al momento que abren la caja lo que observan es una masa amorfa, parecida al barro, sin pelo, sin ojos, ni ningún elemento que les permita identificar a su familiar.
 
@@ -43,12 +43,13 @@ El 24 de septiembre del 2010, un mes después de que encontraron su cuerpo, Yeim
 # Angela Pineda
 ## Guatemala
 
-Son 5 los familiares que Ángela perdió en la masacre de los 72 migrantes en San Fernando, Tamaulipas -sus dos hijos, su esposo, la sobrina de su esposo y su cuñado-.
-Todos salieron juntos de Guatemala con destino a Iowa, EEUU. comenzaron el viaje desde el Naranjo, el Petén, frontera entre México y Guatemala. Se comunican por última vez el 7 de agosto de 2011, y comentan que pasaron 5 días entre las montañas.
+Son 5 los familiares que Ángela perdió en la masacre de los 72 migrantes en San Fernando, Tamaulipas -sus dos hijos, su esposo, la sobrina de su esposo y su cuñado-. Todos salieron juntos de Guatemala con destino a Iowa, EEUU. Iniciaron el viaje desde el Naranjo, Petén -frontera entre México y Guatemala-. Se comunican por última vez el 7 de agosto de 2011, y comentan que pasaron 5 días entre las montañas.
 
-Lo siguiente que sabe la familia es por medio de las noticias donde se anuncia la masacre de los 72 migrantes, donde ella sin tener certeza, pero por las fechas y la falta de comunicación, le hacen saber que sus familares fallecieron.
-Meses más tarde de esto, Ángela recibe la llamada de la Secretaría de Relaciones Exteriores donde le confirman su supuesto, los 5 fallecieron con un tiro de gracia en la cabeza a manos de los Zetas.
-La repatriación se realizó en abril de 2012 y como en los demás casos, sólo se entrego los restos, sin darle información alguna a la familia sobre la investigación y menos aún sobre la identificación.
+Lo siguiente que sabe la familia es por medio de las noticias. 72 migrantes habían sido asesinados 3 días después de la última comunicación. Ángela intuye, por las fechas y la falta de comunicación, que sus familiares pueden estar ahí.
+
+Meses más tarde, la familia recibe la llamada de la Secretaría de Relaciones Exteriores donde le confirman su supuesto, los 5 fallecieron con un tiro de gracia en la cabeza a manos de los Zetas.
+
+La repatriación se realizó en abril de 2012 y como en los demás casos, sólo le entrego a la familia el cuerpo, sin darle información alguna sobre la investigación y menos aún sobre la identificación.
 
 
 
