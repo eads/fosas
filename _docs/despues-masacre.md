@@ -1,5 +1,7 @@
 # Bílder Osbelí
 
+## Guatemala
+
 
 Salió en un grupo de entre 5 y 6 migrantes, de la Aldea de Las Tejas, Guatemala; todos con destino Texas, EEUU. Según fuentes oficiales, cuando arribó al Municipio de San Fernando, Tamaulipas; fue obligado a descender del camión de pasajeros por el grupo delictivo de los Zetas, quiénes le propusieron trabajar en su "ejército", al negarse, fue asesinado, junto con 71 personas más.
 La familia de Osbelí es notificada en octubre de 2011, por teléfono, que su hijo se encuentra dentro de este grupo de 72 migrantes asesinados. La identificación se logra, gracias a que el Consulado de Guatemala se pone en contacto con las autoridades mexicanas y le envía una lista de 8 guatemaltecos desaparecidos en las fechas de la masacre. 
@@ -9,6 +11,8 @@ En ese momento se les solicita a las familia de Osbelí dar una muestra de sangr
 
 
 #Juliard 
+
+##Brasil
 
 
 Salió el 3 de agosto de 2010 de Mina Gerais, Sao Paolo. En Sao Paolo tomó un avión hacia Guatemala. Ocho días después  se comunico con su familia y les dijo que estaba en Guatemala y que él calculaba que en 3 días mas estaría en EEUU. Esa fue la ultima vez que habló con su familia.
