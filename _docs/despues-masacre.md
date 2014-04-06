@@ -1,15 +1,3 @@
-<div id="bilder"></div>
-
-# Angela Pineda
-## Guatemala
-
-Son 5 los familiares que Ángela perdió en la masacre de los 72 migrantes en San Fernando, Tamaulipas -sus dos hijos, su esposo, la sobrina de su esposo y su cuñado-.
-Todos salieron juntos de Guatemala con destino a Iowa, EEUU. comenzaron el viaje desde el Naranjo, el Petén, frontera entre México y Guatemala. Se comunican por última vez el 7 de agosto de 2011, y comentan que pasaron 5 días entre las montañas.
-
-Lo siguiente que sabe la familia es por medio de las noticias donde se anuncia la masacre de los 72 migrantes, donde ella sin tener certeza, pero por las fechas y la falta de comunicación, le hacen saber que sus familares fallecieron.
-Meses más tarde de esto, Ángela recibe la llamada de la Secretaría de Relaciones Exteriores donde le confirman su supuesto, los 5 fallecieron con un tiro de gracia en la cabeza a manos de los Zetas.
-La repatriación se realizó en abril de 2012 y como en los demás casos, sólo se entrego los restos, sin darle información alguna a la familia sobre la investigación y menos aún sobre la identificación.
-
 <div id="juiliard"></div>
 
 #Juliard 
@@ -44,6 +32,19 @@ Cuando Yeimi Castro tenía cinco años, Marilú, su mamá, migró a Estados Unid
 
 “Se fue el 10 de agosto. Dejó la escuela. Ella no quería irse, pero su madre insistió. La última vez que supe de ella fue el 11 de agosto. Me habló y me dijo que estaba en Guatemala, que ya iban a entrar a México, que iba con un niño de 16 años y con una embarazada”, cuenta Victoria, la abuela que crió a Yeimi y que miró por la televisión el cuerpo de su nieta tirado en medio de otros cuerpos inertes. Lo reconoció porque llevaba la misma ropa con la que salió de El Salvador. 
 El 24 de septiembre del 2010, un mes después de que encontraron su cuerpo, Yeimi llegó en un ataúd a El Salvador. 
+
+
+<div id="bilder"></div>
+
+# Angela Pineda
+## Guatemala
+
+Son 5 los familiares que Ángela perdió en la masacre de los 72 migrantes en San Fernando, Tamaulipas -sus dos hijos, su esposo, la sobrina de su esposo y su cuñado-.
+Todos salieron juntos de Guatemala con destino a Iowa, EEUU. comenzaron el viaje desde el Naranjo, el Petén, frontera entre México y Guatemala. Se comunican por última vez el 7 de agosto de 2011, y comentan que pasaron 5 días entre las montañas.
+
+Lo siguiente que sabe la familia es por medio de las noticias donde se anuncia la masacre de los 72 migrantes, donde ella sin tener certeza, pero por las fechas y la falta de comunicación, le hacen saber que sus familares fallecieron.
+Meses más tarde de esto, Ángela recibe la llamada de la Secretaría de Relaciones Exteriores donde le confirman su supuesto, los 5 fallecieron con un tiro de gracia en la cabeza a manos de los Zetas.
+La repatriación se realizó en abril de 2012 y como en los demás casos, sólo se entrego los restos, sin darle información alguna a la familia sobre la investigación y menos aún sobre la identificación.
 
 
 <div class="video-wrapper">
