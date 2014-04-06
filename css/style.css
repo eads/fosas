@@ -114,3 +114,9 @@ body {
 #map {
   margin-top: 40px;
 }
+
+#intro img {
+  max-width: 40%;
+  margin: 0 auto;
+  text-align: center;
+}
