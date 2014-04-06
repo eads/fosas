@@ -1,5 +1,4 @@
 <div id="juiliard"></div>
-
 #Juliard 
 ##Brasil
 
@@ -21,7 +20,6 @@ Hasta el día de hoy la familia considera que "la cosa" que enterraron no es su 
 </div>
 
 <div id="yeimi"></div>
-
 #Yeimi
 ##El Salvador
 
@@ -35,7 +33,6 @@ El 24 de septiembre del 2010, un mes después de que encontraron su cuerpo, Yeim
 
 
 <div id="bilder"></div>
-
 # Angela Pineda
 ## Guatemala
 
