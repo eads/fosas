@@ -4,14 +4,14 @@
 
 <div class="container">
   <div class="photo-revealer-container">
-    <div class="photo-revealer" id="juliard-link">
-      <h1><a href="#">Juliard</a></h1>
+    <div class="photo-revealer" id="juliard-link" data-anchor="juiliard">
+      <h1>Juliard</h1>
     </div>
-    <div class="photo-revealer" id="yeimi-link">
-      <h1><a href="#">Yeimi</a></h1>
+    <div class="photo-revealer" id="yeimi-link" data-anchor="yeimi">
+      <h1>Yeimi</h1>
     </div>
-    <div class="photo-revealer" id="bilder-link">
-      <h1><a href="#">Angela</a></h1>
+    <div class="photo-revealer" id="bilder-link" data-anchor="bilder">
+      <h1>Angela</h1>
     </div>
   </div>
   <div class="row-fluid">
@@ -28,6 +28,14 @@ $(document).ready(function() {
   $(".photo-revealer").each(function() {
     $(this).data("leftPos", $(this).css("left"));
   });
+  $(".photo-revealer").click(function() {
+    var anchor = $(this).data("anchor");
+    console.log(anchor);
+    $("body, html").animate({
+      scrollTop: $("#"+ anchor).offset().top - 50
+    }, 1000);
+  });
+
   $(".photo-revealer").hover(function() {
     $(this).css("z-index", 99);
     $(this).animate({

@@ -11,7 +11,7 @@ Meses más tarde de esto, Ángela recibe la llamada de la Secretaría de Relacio
 La repatriación se realizó en abril de 2012 y como en los demás casos, sólo se entrego los restos, sin darle información alguna a la familia sobre la investigación y menos aún sobre la identificación.
 
 
-<div id="juliard"></div>
+<div id="juiliard"></div>
 
 #Juliard 
 ##Brasil
