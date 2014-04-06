@@ -1,12 +1,7 @@
+<div id="bilder"></div>
+
 # Angela Pineda
 ## Guatemala
-
-<!--
-<div class="video-wrapper">
-  <... iframe code from vimeo ... >
-</div>
--->
-
 
 Son 5 los familiares que Ángela perdió en la masacre de los 72 migrantes en San Fernando, Tamaulipas -sus dos hijos, su esposo, la sobrina de su esposo y su cuñado-.
 Todos salieron juntos de Guatemala con destino a Iowa, EEUU. comenzaron el viaje desde el Naranjo, el Petén, frontera entre México y Guatemala. Se comunican por última vez el 7 de agosto de 2011, y comentan que pasaron 5 días entre las montañas.
@@ -16,10 +11,7 @@ Meses más tarde de esto, Ángela recibe la llamada de la Secretaría de Relacio
 La repatriación se realizó en abril de 2012 y como en los demás casos, sólo se entrego los restos, sin darle información alguna a la familia sobre la investigación y menos aún sobre la identificación.
 
 
-
-
-
-
+<div id="juliard"></div>
 
 #Juliard 
 ##Brasil
@@ -37,6 +29,7 @@ El 5 de octubre de 2010, los restos llegan a Belo Horizonte, después de haber s
 
 Hasta el día de hoy la familia considera que "la cosa" que enterraron no es su familiar y están esperando que alguien les informe sobre las circunstancias en las que murió Juliard.
 
+<div id="yeimi"></div>
 
 #Yeimi
 ##El Salvador
