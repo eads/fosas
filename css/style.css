@@ -2,6 +2,7 @@ body {
   font-family: Georgia, "Times New Roman", serif;
   padding-bottom: 30px;
   padding-top: 50px;
+  font-size: 18px;
 }
 
 /* Text */
@@ -32,16 +33,21 @@ body {
 /* StoryMap */
 #storymap-embed { padding-top: 50px; }
 
-.vco-slide-content {
-    position: relative;
-    margin: 15px 0;
-    padding: 15px 20px;
-    background:#fff;
-    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-}
- 
+/*.vco-slide-content {*/
+    /*position: relative;*/
+    /*margin: 15px 0;*/
+    /*padding: 15px 20px;*/
+    /*background:#fff;*/
+    /*-webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;*/
+       /*-moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;*/
+            /*box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;*/
+/*}*/
+
+/* Page specific styles */
+#intro { margin-bottom: 150px; }
+#interview { margin-bottom: 100px; }
+    
+
 .vco-slide-content:before {
   content:"";
   position:absolute; 
