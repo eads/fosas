@@ -28,15 +28,10 @@ El 5 de octubre de 2010, los restos llegan a Belo Horizonte, después de haber s
 
 Hasta el día de hoy la familia considera que "la cosa" que enterraron no es su familiar y están esperando que alguien les informe sobre las circunstancias en las que murió Juliard.
 
-<<<<<<< HEAD
-=======
-
 <div class="video-wrapper">
   <iframe src="//player.vimeo.com/video/91177241" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/91177241">brasil</a> from <a href="http://vimeo.com/ivancastaneira">Iv&aacute;n Castaneira</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-
->>>>>>> e22e7eaa2aff9ef3d27c616d81cf7554901617af
 <div id="yeimi"></div>
 
 #Yeimi
