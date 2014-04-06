@@ -17,7 +17,7 @@ La repatriación se realizó en abril de 2012 y como en los demás casos, sólo 
 
 
 
-2 de agosto 2010, se cominocar Del Naranjo, Peten, frontera con Mexico Luego entraron a una montañapor 5 días Richard le dijo que estuvo alla con explodarodes para sacr trabajo de jóvenes, Les ahblo el 7 de agosto. La describió como un lugar hermoso, una montaña muy bine Luego hablo con su esposo, el era diabético, y el decía que estaban bioien, si tomaba su medicina Mariela le hablo a su suegra también, pidiendo ayuda para que pudiera cambiar los zapatos, para que le pidieran a un familiar en EEUU para ayudarle. Iban con un señor del Naranjo, coyote, que se los llevo en lancha por el rio, el iba con ellos todo el tiempo. Personas de su pueblo conocen al coyote, que es de botas, de sombrero, eso le han dicho en el pueblo, ellos no le comentaron. Se duda si es el quien los vendio, el vive en el naranjo. La persona tiene una cuñada en el naranjo y ella les recomendó el coyote. Ella llego a Zipacate, pero no quizo darle detalles. Es un grupo de 7, uno de ellos es el vecino. ‘ familiares en EEUU? Su esposo estuvo trabajando en EEUU durante 7 a 8 años, trabajo en limpieza. Pero en EEUU estuvo con otroa mujer y se desentendio, 4 o 5 años no supo de el. Regreso a Guatemala y trato de salir adelante. 2,000 Quetzales para vijar con sus hijos, lo solicito con un préstamo, se lo pidió a la persona con la que trabajaba la venta de SAL. El esposo vivio en Chicago. ( Estuvo 8 meses en Guatemala y decide irse a EUU Al despedirse de su hija, ella decide irse con el, también el hijo. El hijo lloeraba para no irse. Prefiero pasar todas las pobrezas pero no te vayas… y ellos deciden irse, los hijos, para que no se vaya solo. Y quiere que este bien su mama, para que este bien ssu madre. Quería estar dos años. Ella tiene tios en EEUU. En Iowa. Despues de llamarle de el Narajno le dijeron que le faltaba poco par DEspues del narajo se fueron a la montaña durante 5 dias y esa fue la ultima llamada- Ella supóne que agarraon la misma ruta. Pero el coyote puede ser que los hayan llevado a otro lado. Vio la tele de los 72, le impacto y supuso que era su familiar. El ecuatorino dijo que eran muchos guatemaltecos y eso pla hi Amenzas? No Solo alguien que le hablo para extorsionarla. Les dieron un numero de tel La llamaa decía que era de mex de una mujer, que quería hablar con ella, y luego ella tomo el numero y le llamo apra saber de sus hijos. Le dijeron qu elamabad de sonora, que ahí estaban sus hijos, y que tenia que pagar 8,000 mil dólares por cada uno 1 semama
+
 
 
 
@@ -36,4 +36,15 @@ A pesar de que la familia acepta pagar los gastos de traslado, al solicitar una 
 El 5 de octubre de 2010, los restos llegan a Belo Horizonte, después de haber sido enviados "por equivocación" a Honduras. La única nota que acompaña el sarcófago, proveniente del gobierno mexicano, es la solicitud de que por ninguna razón la familia puede abrir la caja. La familia no acata esta instrucción, pues deseaban ver los restos de Juliard y despedirse de él. Al momento que abren la caja lo que observan es una masa amorfa, parecida al barro, sin pelo, sin ojos, ni ningún elemento que les permita identificar a su familiar.
 
 Hasta el día de hoy la familia considera que "la cosa" que enterraron no es su familiar y están esperando que alguien les informe sobre las circunstancias en las que murió Juliard.
+
+
+#Yeimi
+##El Salvador
+
+Yeimi era originaria de  Las Peñitas, en Pasaquina, El Salvador, fue una de las 72 migrantes asesinadas en el municipio de San Fernando, Tamaulipas, en el noreste de México. La joven, de 15 años, quería viajar de El Salvador a Estados Unidos para reunirse con su madre quien vive en Nueva York. 
+
+Cuando Yeimi Castro tenía cinco años, Marilú, su mamá, migró a Estados Unidos. Fue de las afortunadas que logró llegar y establecerse en Nueva York. Yeimi, junto con sus dos hermanos, creció bajo el cuidado de la abuela. Yeimi quería ser doctora. Era una buena estudiante, cuenta su abuela. La mamá de Yeimi decidió pagar a un coyote para que la llevara a Nueva York.
+
+“Se fue el 10 de agosto. Dejó la escuela. Ella no quería irse, pero su madre insistió. La última vez que supe de ella fue el 11 de agosto. Me habló y me dijo que estaba en Guatemala, que ya iban a entrar a México, que iba con un niño de 16 años y con una embarazada”, cuenta Victoria, la abuela que crió a Yeimi y que miró por la televisión el cuerpo de su nieta tirado en medio de otros cuerpos inertes. Lo reconoció porque llevaba la misma ropa con la que salió de El Salvador. 
+El 24 de septiembre del 2010, un mes después de que encontraron su cuerpo, Yeimi llegó en un ataúd a El Salvador. 
 
