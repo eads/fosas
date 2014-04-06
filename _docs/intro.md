@@ -1,6 +1,6 @@
 Entre agosto de 2010 y mayo de 2012, fueron localizados los cadáveres de 214 personas en los municipios de San Fernando, Tamaulipas, y de Cadereyta, Nuevo León.
  
-Aunque en principio, las autoridades mexicanas solo reconocieron que los 72 cuerpos localizados en el ejido de El Huizachal el 10 de agosto de 2010 (que se conoce como la masacre de los 72 migrantes) eran personas centroamericanas que buscaban llegar a Estados Unidos, con el tiempo, han tenido que admitir que los 193 cuerpos localizados un año después en 35 fosas (hecho que se ha llamado "San Fernando 2") también eran migrantes.
+Aunque en principio, las autoridades mexicanas solo reconocieron que los 72 cuerpos localizados en el ejido de El Huizachal el 22 de agosto de 2010 (que se conoce como la masacre de los 72 migrantes) eran personas centroamericanas que buscaban llegar a Estados Unidos, con el tiempo, han tenido que admitir que los 193 cuerpos localizados un año después en 35 fosas (hecho que se ha llamado "San Fernando 2") también eran migrantes.
  
 De los 49 los cuerpos localizados el 13 de mayo de 2012 en Cadereyta, ocho ya fueron identificados como ciudadanos hondureños; el resto no ha sido identificado.
  
