@@ -3,8 +3,48 @@
 {% block content %}
 
 <div class="container">
-  {{ read_file("_docs/despues-masacre.md")|markdown }}
+  <div class="photo-revealer-container">
+    <div class="photo-revealer" id="juliard-link">
+      <h1><a href="#">Juliard</a></h1>
+    </div>
+    <div class="photo-revealer" id="yeimi-link">
+      <h1><a href="#">Yeimi</a></h1>
+    </div>
+    <div class="photo-revealer" id="bilder-link">
+      <h1><a href="#">Angela</a></h1>
+    </div>
+  </div>
+  <div class="row-fluid">
+    <div class="col-md-10 col-md-offset-1">
+        {{ read_file("_docs/despues-masacre.md")|markdown }}
+    </div>
+  </div>
 </div>
+{% endblock %}
 
+{% block scripts %}
+<script>
+$(document).ready(function() {
+  $(".photo-revealer").each(function() {
+    $(this).data("leftPos", $(this).css("left"));
+  });
+  $(".photo-revealer").hover(function() {
+    $(this).css("z-index", 99);
+    $(this).animate({
+      'left': 0,
+      'background-position': "0 0",
+      'width': '100%'
+    }, 1200);
+  }, function() {
+    $(this).animate({
+      'left': $(this).data("leftPos"),
+      'background-position': $(this).data("leftPos") + " 0",
+      'width': '33.3333%'
+    }, 600, function() {
+        $(this).css("z-index", 0);
+    });
+  });
+});
+</script>
 {% endblock %}
 
