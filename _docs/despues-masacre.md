@@ -19,6 +19,8 @@ Hasta el día de hoy la familia considera que "la cosa" que enterraron no es su 
   <iframe src="//player.vimeo.com/video/91177241" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/91177241">brasil</a> from <a href="http://vimeo.com/ivancastaneira">Iv&aacute;n Castaneira</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
+
+
 <div id="yeimi"></div>
 #Yeimi
 ##El Salvador
@@ -30,6 +32,11 @@ Cuando Yeimi Castro tenía cinco años, Marilú, su mamá, migró a Estados Unid
 
 “Se fue el 10 de agosto. Dejó la escuela. Ella no quería irse, pero su madre insistió. La última vez que supe de ella fue el 11 de agosto. Me habló y me dijo que estaba en Guatemala, que ya iban a entrar a México, que iba con un niño de 16 años y con una embarazada”, cuenta Victoria, la abuela que crió a Yeimi y que miró por la televisión el cuerpo de su nieta tirado en medio de otros cuerpos inertes. Lo reconoció porque llevaba la misma ropa con la que salió de El Salvador. 
 El 24 de septiembre del 2010, un mes después de que encontraron su cuerpo, Yeimi llegó en un ataúd a El Salvador. 
+
+<div class="video-wrapper">
+  <iframe src="//player.vimeo.com/video/91108191" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/91108191">Yeimi</a> from <a href="http://vimeo.com/ivancastaneira">Iv&aacute;n Castaneira</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+
 
 
 <div id="bilder"></div>
@@ -44,7 +51,4 @@ Meses más tarde de esto, Ángela recibe la llamada de la Secretaría de Relacio
 La repatriación se realizó en abril de 2012 y como en los demás casos, sólo se entrego los restos, sin darle información alguna a la familia sobre la investigación y menos aún sobre la identificación.
 
 
-<div class="video-wrapper">
-  <iframe src="//player.vimeo.com/video/91108191" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/91108191">Yeimi</a> from <a href="http://vimeo.com/ivancastaneira">Iv&aacute;n Castaneira</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
 
