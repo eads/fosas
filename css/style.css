@@ -36,13 +36,12 @@ body {
 
 /* Page specific styles */
 #intro {
-    margin-bottom: 150px; 
+    margin-bottom: 100px; 
     background-color: #fff;
     margin-top: -12%;
     z-index: 300;
     position: relative;
 }
-#interview { margin-bottom: 100px; }
     
 .vco-slide-content {
     position: relative;
